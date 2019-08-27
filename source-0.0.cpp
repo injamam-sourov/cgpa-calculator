@@ -1,4 +1,4 @@
-// GPA calculator
+// CGPA calculator (v0.0, initial release)
 #include <iostream>
 using namespace std;
 
