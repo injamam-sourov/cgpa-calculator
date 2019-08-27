@@ -1,5 +1,5 @@
 # cgpa-calculator
-This repository contains the source code and the executables for my private project to build a simple cgpa calculator in C++.
+This repository contains the source code and the executables for my private project to build a simple cgpa calculator in C++. To <b>run</b> the program download and run the latest updated .exe posted above or see /bin folder. For the <b>source</b> file see /source folder.
 
 ### How it works?
 This program is designed as a console/teminal application to output the Cumulative Grade Point Average (CGPA) and a table for the courses supplied to it.</br></br>
