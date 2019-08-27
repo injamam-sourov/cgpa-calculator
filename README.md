@@ -9,6 +9,6 @@ To start, enter the number of courses you wish to evaluate. The program will the
 
 ### Releases
 <a href="bin/cgpa-0.1.exe">cgpa-0.1.exe</a> - executable for version 0.1 (August 27, 2019)</br>
-<a href="source/source-0.1.cpp">source-0.1.cpp</a> - source code for version 0.1 (August 27, 2019)</br>
+<a href="source/cgpa-0.1.cpp">cgpa-0.1.cpp</a> - source code for version 0.1 (August 27, 2019)</br>
 <a href="bin/cgpa-0.0.exe">cgpa-0.0.exe</a> - executable for intitial release (August 26, 2019)</br>
-<a href="source/source-0.0.cpp">source-0.0.cpp</a> - source code for initial release (August 26, 2019)</br>
+<a href="source/cgpa-0.0.cpp">cgpa-0.0.cpp</a> - source code for initial release (August 26, 2019)</br>
