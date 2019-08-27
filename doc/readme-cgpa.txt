@@ -10,4 +10,4 @@ Tip: For proper alignment of output table, use consistent naming conventions (eg
 
 --- Release notes ---
 v0.0 - very basic/barebone gpa calculator without any formatting or error messages.
-v0.1 - added generic documentation
+v0.1 - added validations, error messages and generic documentation.
