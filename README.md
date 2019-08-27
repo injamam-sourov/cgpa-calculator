@@ -8,7 +8,7 @@ To start, enter the number of courses you wish to evaluate. The program will the
 <b>Tip:</b> For proper alignment of output table, use consistent naming conventions (eg. CSC121, EEE221 OR CSC 121, eee 221 OR leave ALL blank)
 
 ### Releases
-<a href="cgpa-0.1.exe">cgpa-0.1.exe</a> - executable for version 0.1 (August 27, 2019)</br>
-<a href="source-0.1.cpp">source-0.1.cpp</a> - source code for version 0.1 (August 27, 2019)</br>
-<a href="cgpa-0.0.exe">cgpa-0.0.exe</a> - executable for intitial release (August 26, 2019)</br>
-<a href="source-0.0.cpp">source-0.0.cpp</a> - source code for initial release (August 26, 2019)</br>
+<a href="bin/cgpa-0.1.exe">cgpa-0.1.exe</a> - executable for version 0.1 (August 27, 2019)</br>
+<a href="source/source-0.1.cpp">source-0.1.cpp</a> - source code for version 0.1 (August 27, 2019)</br>
+<a href="bin/cgpa-0.0.exe">cgpa-0.0.exe</a> - executable for intitial release (August 26, 2019)</br>
+<a href="source/source-0.0.cpp">source-0.0.cpp</a> - source code for initial release (August 26, 2019)</br>
