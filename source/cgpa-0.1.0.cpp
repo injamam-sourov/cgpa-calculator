@@ -1,4 +1,11 @@
-// CGPA calculator v0.1 - refactored
+// CGPA calculator v0.1 - refactored code, added waiver feature
+/*
+Changelog: 
+[1] [important] tuition waiver based on cgpa feature added
+[2] calculation of course grade points merged with course details input
+[3] total credit and total grade point earned merged with course details input
+
+*/
 #include <iostream>
 using namespace std;
 
