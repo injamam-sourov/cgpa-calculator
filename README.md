@@ -10,7 +10,6 @@ To start, enter the number of courses you wish to evaluate. The program will the
   <li>In case of retakes use the latest earned grade only. The program does not validate retakes</li>
   <li>Incomplete grades such as 'W', 'Z' or 'I' is not accepted as they do not affect the cgpa in any way</li>
 </ul>
-</br></br>
 
 <b>(For versions prior to 0.1.1 only):</b> For proper alignment of output table, use consistent naming conventions (eg. CSC121, EEE221 OR CSC 121, eee 221 OR leave ALL blank)
 
