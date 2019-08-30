@@ -1,11 +1,11 @@
 ## Setup/Installation
 No installtion is required. To use the program simply download and run cgpa-x.x.exe from the /bin folder (x.x represents the version number, choose the highest). For the source file see /source folder.
 
-## How it works?
+## How it works? 
 
 This program is designed as a console/teminal application to output the Cumulative Grade Point Average (CGPA) and a table for the courses supplied to it.
 
-To start, enter the number of courses you wish to evaluate. The program will then sequentially ask you the details (id, credit and grade obtained) for each course. The course id is optional an can be left blank. However, incorrect CREDIT value (apart from 0, 1 or 3) or GRADE (A through D and F only) values will TERMINATE the program. GRADE values are CASE INSENSITIVE meaning both B+ and b+ yield the same result.
+(upto v0.1.1 only) To start, enter the number of courses you wish to evaluate. The program will then sequentially ask you the details (id, credit and grade obtained) for each course. The course id is optional an can be left blank. However, incorrect CREDIT value (apart from 0, 1 or 3) or GRADE (A through D and F only) values will TERMINATE the program. GRADE values are CASE INSENSITIVE meaning both B+ and b+ yield the same result.
 
 WARNING:
 
