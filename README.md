@@ -10,7 +10,7 @@ This program is designed as a console/teminal application to output the Cumulati
 
 <b>Method 2</b> simplies matters by accounting for a pre existing CGPA (as such from previous semester). This should be only used if the user has taken credit courses before and can supply a cgpa and credit count for them. However, care should be taken as this method allows a margin for error (plus or minus 0.01) since most values are rounded of figures. Desipite this, in most cases, the final rounded cgpa should be accurate to two decimal places as is usually required.</br></br>
 
-<b>Caution:</b></br>The program can't validate whether or not your previous cgpa, credits and grades agree with each other. If your final cgpa is >4 or something that seems way off from what it should be, chances are you have entered a legal but incosistent combination of previous cgpa, credit and grade. See documentation for more details.</br>
+<b>Caution:</b></br>The program can't validate whether or not your previous cgpa, credits and grades agree with each other. If your final cgpa is >4 or something that seems way off from what it should be, chances are you have entered a legal but incosistent combination of previous cgpa, credit and grade or did not include the newer grade in current semester courses. See documentation for more details.</br>
 
 Once a method is chosen, the user will be promted to enter details as required. Any invalid input at any point within the porgram will terminate the program with appropiate error message. After all required inputs have been gathered the program will generate a course table for the courses supplied, calculate the final cgpa and waiver eligibilty as per IUB Greenbook for Autumn 2019.</br>
 
