@@ -8,8 +8,8 @@ This program is designed as a console/teminal application to output the Cumulati
 
 <b>Method 1</b> follows the previous convention and requires the user to input grade and credit earned for every courses taken. Hence this method takes longer but gives the exact CGPA without any error margins.</br>
 
-<b>Method 2</b> simplies matters by accounting for a pre existing CGPA (as such from previous semester). This should be only used if the user has taken credit courses before and can supply a cgpa and credit count for them. However, care should be taken as this method allows a margin for error since most values are rounded of figures. Desipite this, in most cases, the final rounded cgpa should be accurate to two decimal places as is usually required.</br>
-<b>WARNING:</b> as of version 0.2.0, Method 2 does not account for retakes. In that case, this user is adviced to enter only non retake courses and manually adjust the output cgpa for retakes OR use method 1 with only the latest grade earned for retake courses.</br> 
+<b>Method 2</b> simplies matters by accounting for a pre existing CGPA (as such from previous semester). This should be only used if the user has taken credit courses before and can supply a cgpa and credit count for them. However, care should be taken as this method allows a margin for error since most values are rounded of figures. Desipite this, in most cases, the final rounded cgpa should be accurate to two decimal places as is usually required.</br></br>
+<b>WARNING:</b> (as of version 0.2.0) Method 2 does not account for retakes. In that case, this user is adviced to enter only non retake courses and manually adjust the output cgpa for retakes OR use method 1 with only the latest grade earned for retake courses.</br> 
 
 Once a method is chosen, the user will be promted to enter details as required. Any invalid input at any point within the porgram will terminate the program with appropiate error message. After all required inputs have been gathered the program will generate a course table for the courses supplied, calculate the final cgpa and waiver eligibilty as per IUB Greenbook for Autumn 2019.</br>
 
@@ -34,6 +34,13 @@ Once a method is chosen, the user will be promted to enter details as required. 
 <a href="source/cgpa-0.0.cpp">cgpa-0.0.cpp</a> - source code for initial release (August 26, 2019)</br>
 
 ### Release notes:
+<b>v0.2.0:</b> 
+<ul>
+  <li><b>[important]</b> added feature to use previous semester cgpa</li>
+  <li> revised program structure</li>
+  <li>better error handling and validations</li>
+  <li>code redesigned</li>
+</ul>
 <b>v0.1.0:</b> 
 <ul>
   <li><b>[important]</b> tuition waiver based on cgpa feature added as a function</li>
@@ -43,11 +50,4 @@ Once a method is chosen, the user will be promted to enter details as required. 
   <li>course table and cgpa output made a seperate function</li>
   <li>opening message stored as a constant MESSAGE</li>
   <li>array courseName changed to courseId</li>
-</ul>
-<b>v0.2.0:</b> 
-<ul>
-  <li><b>[important]</b>added feature to use previous semester cgpa</li>
-  <li>code redesigned</li>
-  <li>better error handling and validations</li>
-  <li> revised program structure</li>
 </ul>
